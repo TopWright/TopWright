@@ -1,8 +1,8 @@
 # 💫 Hello, I'm Temitope Oluwaseyi Wright:
 
-# 💫 An Innovative and proactive Front End Developer developing elegant, groundbreaking website and application designs. Talented in project management, team leadership and independent problem-solving. Highly organized multitasking with expertise in scheduling projects, enhancing designs and verifying code. Prepared to offer Front End abilities to team.
+An Innovative and proactive Front End Developer developing elegant, groundbreaking website and application designs. Talented in project management, team leadership and independent problem-solving. Highly organized multitasking with expertise in scheduling projects, enhancing designs and verifying code. Prepared to offer Front End abilities to team.
 
-# 💫 Summary:
+💫 Summary:
 
 👀 I’m interested in the Javascript Ecosystem for MERN developers<br>
 🌱 I’m currently learning React js and React Native.<br>
