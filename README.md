@@ -1,11 +1,11 @@
 # 💫 About Me:
-👀 I’m interested in the Javascript Ecosystem for MERN developers
-🌱 I’m currently learning React js and React Native.
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-💞️ I’m looking to collaborate on Front End, Full Stack and also web3 projects.
-💼 Job interests: Software Engineer, Front Engineer,  or UI Engineer (Intern or Junior level).
-💡 Fun fact: I'm currently studying at the National Institute Of Information and Technology.
-📫 You can contact me by emailing to topwrightdev@gmail.com.
+👀 I’m interested in the Javascript Ecosystem for MERN developers<br>
+🌱 I’m currently learning React js and React Native.<br>
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.<br>
+💞️ I’m looking to collaborate on Front End, Full Stack and also web3 projects.<br>
+💼 Job interests: Software Engineer, Front Engineer,  or UI Engineer (Intern or Junior level).<br>
+💡 Fun fact: I'm currently studying at the National Institute Of Information and Technology.<br>
+📫 You can contact me by emailing to topwrightdev@gmail.com.<br><br>
 
 
 ## 🌐 Socials:
