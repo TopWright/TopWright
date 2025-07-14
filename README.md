@@ -1,16 +1,15 @@
-# 💫 Hello, I'm Temitope Oluwaseyi Wright:
-
-An Innovative and proactive Front End Developer developing elegant, groundbreaking website and application designs. Talented in project management, team leadership and independent problem-solving. Highly organized multitasking with expertise in scheduling projects, enhancing designs and verifying code. Prepared to offer Front End abilities to team.
+💫 Hello, I'm Temitope Oluwaseyi Wright:
+An innovative and proactive Front-End Developer passionate about building elegant, high-performance web and mobile applications. Experienced in leading projects, collaborating across teams, and delivering clean, scalable code. Skilled in translating complex ideas into intuitive, user-friendly interfaces with a strong eye for design and detail.
 
 💫 Summary:
 
-👀 I’m interested in the Javascript Ecosystem for MERN developers<br>
-🌱 I’m currently learning React js and React Native.<br>
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.<br>
-💞️ I’m looking to collaborate on Front End, Full Stack and also web3 projects.<br>
-💼 Job interests: Software Engineer, Front Engineer,  or UI Engineer (Intern or Junior level).<br>
-💡 Fun fact: I'm currently studying at the National Institute Of Information and Technology.<br>
-📫 You can contact me by emailing to topwrightdev@gmail.com.<br><br>
+👀 I’m focused on the JavaScript ecosystem, especially within the MERN stack.<br>
+🌱 I’m an expert in React.js, Next.js, and React Native, and I’m continually deepening my expertise. I’m also currently learning Flutter.<br>
+😊 I’m open to contributing to impactful open-source projects, hackathons, and innovative product teams.<br>
+💞️ I’m looking to collaborate on Front-End, Mobile, Full Stack, and Web3 projects.<br>
+💼 Job interests: Frontend Engineer, Mobile developer, UI Engineer, or Full Stack Developer roles (Mid to Senior level).<br>
+💡 Fun fact: I enjoy bringing creative ideas to life through code.<br>
+📫 You can contact me at topwrightdev@gmail.com.<br><br>
 
 
 ## 🌐 Socials:
